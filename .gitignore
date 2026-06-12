@@ -1,0 +1,7 @@
+# QA-скриншоты
+qa/
+
+# PNG-оригиналы (используем WebP)
+main.png
+assets/*.png
+assets/zodiac/*.png
